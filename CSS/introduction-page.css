@@ -6,6 +6,7 @@
 
 body {
     background-color: #221832;
+    color: white;
 }
 
 
@@ -62,4 +63,46 @@ nav ul li a {
     margin-left: 5px;
     border: 2px ;
     border-radius: 10px;
+}
+
+.hr1 {
+    margin-bottom: 80px;
+}
+
+.gege h2 p {
+    float: left;
+}
+
+
+.gege {
+    height: 285px;
+    padding: 30px;
+    padding-top: 50px ;
+    margin: 30px;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 40px;
+    background-color: #3C0753;
+}
+
+h2 {
+    margin: 10px;
+    font-size:40px;
+}
+
+p {
+    line-height: 25px;
+}
+
+.imgege {
+    border-radius: 40px;
+    float: left;
+    width: 300px;
+    margin: 30px;
+    margin-left: 80px;
+}
+
+
+.hr2 {
+    margin-top: 80px;
 }
