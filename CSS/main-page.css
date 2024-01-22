@@ -5,9 +5,7 @@
 }
 
 body {
-    width: 100%;
-    height: 100vh;
-    background-color: #574165;
+    background-color: #221832;
 }
 
 
@@ -16,14 +14,16 @@ body {
     display: flex;
     align-items: center;
     padding-right: 5%;
-    margin: 30px;
+    margin: 30px ;
 }
 
 nav {
     display: flex;
     text-align: center;
     justify-content: center;
+    position: sticky;
 }
+
 
 nav ul li {
     list-style: none;
@@ -46,7 +46,7 @@ nav ul li input {
 }
 
 nav ul li:hover {
-    background-color: #3C0753;
+    background-color: #720455;
 }
 
 nav ul li a {
@@ -55,8 +55,6 @@ nav ul li a {
     font-size: 20px;
     color: white;
 }
-
-
 
 
 .search input {
@@ -78,13 +76,20 @@ nav ul li a {
 
 
 h1 {
-    color: white;
+    color: #ffffff;
+    background-color: #720455;
     font-size: 100px;
     margin-left: 30px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 15px;
+    text-align: center;
+    border: 5px solid ;
+    border-radius: 20px;
 }
 
 h2 {
-    color: white;
+    color: #ffffff;
     font-size: 40px;
     margin-left: 30px;
 }
@@ -103,12 +108,11 @@ p {
 }
 
 .cover img {
-    width: 700px;
-    height: 400px;
+    
+    width: 45rem;
     display: inline-block;
     border-radius: 20px;
-    margin: 100px 15px;
-    
+    margin-left: 20px;
 }
 
 .table table {
@@ -118,4 +122,16 @@ p {
     margin-right: 30px;
     font-size: 20px;
     width: 700px;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th {
+    background-color: #3C0753;
+}
+
+td {
+    background-color: #720455 ;
 }
