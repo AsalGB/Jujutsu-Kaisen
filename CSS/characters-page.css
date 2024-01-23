@@ -75,11 +75,11 @@ nav ul li a {
 
 
 .gege {
-    height: 285px;
-    padding: 30px;
-    padding-top: 50px ;
-    margin: 30px;
-    display: inline-block;
+    padding-top:30px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
     border: 2px solid;
     border-radius: 40px;
     background-color: #3C0753;
@@ -97,12 +97,7 @@ p {
 .imgege {
     border-radius: 40px;
     float: left;
-    width: 300px;
+    width: 200px;
     margin: 30px;
     margin-left: 80px;
-}
-
-
-.hr2 {
-    margin-top: 80px;
 }
