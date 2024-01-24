@@ -92,7 +92,7 @@ h2 {
 
 .para {
     line-height: 30px;
-    font-family: sans-serif;
+    font-family: cursive;
 }
 
 .imgege {
@@ -130,7 +130,7 @@ h2 {
 }
 
 .ch-info {
-    font-family: sans-serif;
+    font-family: cursive;
     font-size: 22px;
     width: 350px;
     background-color: #2218326a;
@@ -159,7 +159,7 @@ h2 {
     color: white;
     border: 3px solid #E95793;
     border-radius: 20px;
-    font-family: sans-serif;
+    font-family: cursive;
     background-color: #720455;
 }
 
