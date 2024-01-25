@@ -46,6 +46,10 @@ nav ul li input {
     border-style: none;
 }
 
+.main {
+    background-color: #221832;
+}
+
 nav ul li:hover {
     background-color: #221832;
 }
